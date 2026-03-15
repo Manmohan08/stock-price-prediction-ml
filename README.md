@@ -18,7 +18,7 @@ Manmohan Kumar
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-repository-url>
+   git clone https://github.com/Manmohan08/stock-price-prediction-ml.git
    cd stock_market_prediction
    ```
 
